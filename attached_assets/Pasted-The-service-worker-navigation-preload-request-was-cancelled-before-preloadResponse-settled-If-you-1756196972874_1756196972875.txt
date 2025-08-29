@@ -1,0 +1,153 @@
+The service worker navigation preload request was cancelled before 'preloadResponse' settled. If you intend to use 'preloadResponse', use waitUntil() or respondWith() to wait for the promise to settle.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-703506d0c307dea6.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ofertnik:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+ofertnik:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+ofertnik:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-703506d0c307dea6.js:38 [LaunchDarkly] LaunchDarkly client initialized
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=01147133-d18f-4202-81d0-d5c3c353ece6:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+239ccabcbe69af43876c19eeca8b1ef5?d=blank&s=256:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(anonymous) @ 8179-11113eed4b80621b.js:1
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+api.sorryapp.com/v1/pages/27c7b5fc:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+www.google-analytics.com/plugins/ua/linkid.js:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+www.google.com/recaptcha/enterprise.js?render=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+6747e1e9-c1f5e0a42b783dc7.js:1 Uncaught (in promise) FirebaseError: Firebase: Error (auth/internal-error).
+    at _ (6747e1e9-c1f5e0a42b783dc7.js:1:1775)
+    at f (6747e1e9-c1f5e0a42b783dc7.js:1:1251)
+    at n.onerror (6747e1e9-c1f5e0a42b783dc7.js:1:83004)
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=3004e0a2-d046-4768-bf07-eb929a7d09b1:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+sp.replit.com/v1/p:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(anonymous) @ 8179-11113eed4b80621b.js:1
+www.google.com/ccm/collect?tid=AW-11411994397&en=page_view&dr=replit.com&dl=https%3A%2F%2Freplit.com%2F%40spopieldoa%2Fofertnik&scrsrc=www.googletagmanager.com&frm=0&rnd=1479823684.1756196873&dt=ofertnik%20-%20Replit&auid=1883602832.1752653206&navt=r&npa=1&gtm=45be58p0h2v9171242957za200zd9171242957xec&gcd=13l3l3l2l1l1&dma_cps=syphamo&dma=1&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&tft=1756196872591&tfd=17762&apve=1&apvf=f:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+ WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(anonymous) @ _app-703506d0c307dea6.js:25
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=c646ac4e-bada-464c-b672-647369bf5c03:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(anonymous) @ 8179-11113eed4b80621b.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=147a19f4-60e5-49ad-a056-b3acd63b3098:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+www.google.com/ccm/collect?tid=AW-11411994397&en=page_view&dr=replit.com&dl=https%3A%2F%2Freplit.com%2F%40spopieldoa%2Fofertnik&scrsrc=www.googletagmanager.com&frm=0&rnd=1479823684.1756196873&dt=ofertnik%20-%20Replit&auid=1883602832.1752653206&navt=r&npa=1&gtm=45be58p0h2v9171242957za200zd9171242957xec&gcd=13l3l3l2l1l1&dma_cps=syphamo&dma=1&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&tft=1756196872591&tfd=17762&apve=1&apvf=f&img=1:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/p:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=c950b820-5ef1-4069-9b61-58c41621cb3f:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=0b9c5083-dc60-430f-af37-2fc812de4741:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(anonymous) @ 8179-11113eed4b80621b.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=59c90f71-3629-46ce-ab94-01c1f041fa6a:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=b0b5cfec-9f90-4327-b201-3b33d2eb7536:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/p:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-703506d0c307dea6.js:25 WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(anonymous) @ _app-703506d0c307dea6.js:25
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+manifest.json:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/p:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-703506d0c307dea6.js:25 WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(anonymous) @ _app-703506d0c307dea6.js:25
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=76959753-48a2-4301-b2ce-84ae235a7f77:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A254e81bd&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=d0a62b5e-bdd1-4745-87c6-1b563768cbea:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/i:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+sp.replit.com/v1/p:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-703506d0c307dea6.js:25 WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(anonymous) @ _app-703506d0c307dea6.js:25
+/data/repls/d727d18f-3cdb-454e-a5f0-4ad25f5272e8/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+framework-0ee7ad8bf58c0bb4.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'battery'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+framework-0ee7ad8bf58c0bb4.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-0ee7ad8bf58c0bb4.js:1
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Arfl%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Service Items Debug: [object Object]
+Console.js:61 Service Items Debug: [object Object]
+Console.js:61 Service Items Debug: [object Object]
+Console.js:61 Yearly Service Cost (12 months): [object Object]
+Console.js:61 Creating quote item: [object Object]
+Console.js:61 Item data being sent: [object Object]
+Console.js:61 Quote item created successfully: [object Response]

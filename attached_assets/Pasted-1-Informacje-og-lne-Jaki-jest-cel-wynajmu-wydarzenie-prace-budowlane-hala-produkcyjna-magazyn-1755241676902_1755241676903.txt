@@ -1,0 +1,89 @@
+1. Informacje ogólne
+
+Jaki jest cel wynajmu? (wydarzenie, prace budowlane, hala produkcyjna, magazyn, inne)
+
+Lokalizacja (adres + warunki dojazdu)
+
+Planowany termin rozpoczęcia wynajmu
+
+Planowany czas trwania wynajmu
+
+Godziny pracy urządzeń (ciągła praca / tylko w określonych godzinach)
+
+Czy na miejscu będzie osoba kontaktowa? (imię, telefon)
+
+2. Warunki otoczenia
+
+Wymiary obszaru / pomieszczenia (długość, szerokość, wysokość)
+
+Rodzaj przestrzeni (zamknięta, półotwarta, otwarta)
+
+Aktualna i docelowa temperatura (jeśli dotyczy)
+
+Wilgotność powietrza (jeśli znana)
+
+Dostęp do źródeł zasilania (typ, napięcie, moc)
+
+Ograniczenia hałasu w dB (jeśli są)
+
+Wymagania dotyczące bezpieczeństwa (np. strefy EX, certyfikaty)
+
+3. Klimatyzacja przemysłowa
+
+Czy urządzenie ma chłodzić, osuszać czy utrzymywać temperaturę?
+
+Docelowa temperatura i wilgotność
+
+Czy potrzebne jest rozprowadzenie powietrza kanałami?
+
+Czy w miejscu montażu jest okno/wentylacja do odprowadzenia gorącego powietrza?
+
+4. Nagrzewnica
+
+Typ preferowany (olejowa, gazowa, elektryczna, wodna)
+
+Docelowa temperatura
+
+Rodzaj ogrzewanej przestrzeni (zamknięta, otwarta, z wentylacją)
+
+Wymagania co do spalania i odprowadzania spalin
+
+Czy w obiekcie są materiały wrażliwe na wysoką temperaturę?
+
+5. Maszt oświetleniowy
+
+Powierzchnia do oświetlenia (w m²)
+
+Wymagana jasność (jeśli znana – w lumenach lub lux)
+
+Warunki pracy (wiatr, deszcz, teren nierówny)
+
+Czy maszt ma być z własnym zasilaniem czy z zewnętrznym źródłem?
+
+Czy wymagane jest oświetlenie o określonej barwie światła?
+
+6. Agregat prądotwórczy
+
+Jakie urządzenia będzie zasilał (moc i charakter obciążenia: stałe/rozruchowe)?
+
+Wymagana moc w kW/kVA (jeśli znana)
+
+Czas pracy dziennie
+
+Dostępność miejsca na ustawienie (odległość od odbiorników)
+
+Wymagania dotyczące poziomu hałasu
+
+Czy agregat ma pracować w układzie rezerwowym (ATS) czy ciągłym?
+
+7. Logistyka i dodatkowe usługi
+
+Czy potrzebny jest transport i montaż sprzętu przez naszą ekipę?
+
+Czy wymagana jest obsługa urządzenia przez operatora na miejscu?
+
+Czy potrzebne są dodatkowe akcesoria (przewody, kanały powietrzne, zbiorniki paliwa)?
+
+Czy klient wymaga przeszkolenia z obsługi?
+
+Czy jest miejsce na magazynowanie paliwa / części zamiennych?

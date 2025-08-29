@@ -1,0 +1,45 @@
+chunk-RPCDYKBN.js?v=5630fd67:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+chunk-BWBGMDOL.js?v=5630fd67:337 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ chunk-BWBGMDOL.js?v=5630fd67:337
+commitHookEffectListMount @ chunk-RPCDYKBN.js?v=5630fd67:16915
+commitPassiveMountOnFiber @ chunk-RPCDYKBN.js?v=5630fd67:18156
+commitPassiveMountEffects_complete @ chunk-RPCDYKBN.js?v=5630fd67:18129
+commitPassiveMountEffects_begin @ chunk-RPCDYKBN.js?v=5630fd67:18119
+commitPassiveMountEffects @ chunk-RPCDYKBN.js?v=5630fd67:18109
+flushPassiveEffectsImpl @ chunk-RPCDYKBN.js?v=5630fd67:19490
+flushPassiveEffects @ chunk-RPCDYKBN.js?v=5630fd67:19447
+commitRootImpl @ chunk-RPCDYKBN.js?v=5630fd67:19416
+commitRoot @ chunk-RPCDYKBN.js?v=5630fd67:19277
+performSyncWorkOnRoot @ chunk-RPCDYKBN.js?v=5630fd67:18895
+flushSyncCallbacks @ chunk-RPCDYKBN.js?v=5630fd67:9119
+(anonimowa) @ chunk-RPCDYKBN.js?v=5630fd67:18627
+admin-public.tsx:496 Simple upload button clicked
+admin-public.tsx:505 File selected: ach6.jpg
+admin-public.tsx:509 Upload URL response: {uploadURL: 'https://storage.googleapis.com/replit-objstore-129…b31ab16160122dd435a33d0&X-Goog-SignedHeaders=host'}
+admin-public.tsx:264 onCreateEquipment called with: {name: 'polk', categoryId: 3, description: '', model: '', power: '', …}
+admin-public.tsx:269 Creating new equipment
+admin-public.tsx:208 Creating equipment with data: {name: 'polk', categoryId: 3, description: '', model: '', power: '', …}
+admin-public.tsx:224 Equipment creation error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+onError @ admin-public.tsx:224
+execute @ @tanstack_react-query.js?v=5630fd67:1254
+await in execute
+mutate @ @tanstack_react-query.js?v=5630fd67:2630
+(anonimowa) @ @tanstack_react-query.js?v=5630fd67:3295
+onCreateEquipment @ admin-public.tsx:270
+(anonimowa) @ chunk-4BFJKWC4.js?v=5630fd67:1465
+await in (anonimowa)
+callCallback2 @ chunk-RPCDYKBN.js?v=5630fd67:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=5630fd67:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=5630fd67:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=5630fd67:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=5630fd67:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=5630fd67:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=5630fd67:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=5630fd67:7051
+(anonimowa) @ chunk-RPCDYKBN.js?v=5630fd67:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=5630fd67:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=5630fd67:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=5630fd67:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=5630fd67:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=5630fd67:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=5630fd67:5449

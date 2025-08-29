@@ -1,0 +1,160 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-8412484c36008d85.js:13 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ofertnik-demo:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+ofertnik-demo:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+ofertnik-demo:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-8412484c36008d85.js:13 [LaunchDarkly] LaunchDarkly client initialized
+ofertnik-demo:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'battery'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-32fbc922dea7b110.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+_app-8412484c36008d85.js:13 If you do not provide children, you must specify an aria-label for accessibility
+(anonymous) @ _app-8412484c36008d85.js:13
+attached_assets/image_1755533859307.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755534398110.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755535144696.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539202555.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539046825.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539543109.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539563259.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539373033.png:1  Failed to load resource: the server responded with a status of 404 ()
+attached_assets/image_1755539763411.png:1  Failed to load resource: the server responded with a status of 404 ()
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar21m%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Engine equipment fuel calculation: Object
+Console.js:61 Engine equipment fuel calculation: Object
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/api/quotes:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+Console.js:61 Error saving quote: Error: 500: {"message":"Failed to create quote","error":"bind message supplies 1 parameters, but prepared statement \"\" requires 0"}
+    at throwIfResNotOk (queryClient.ts:6:11)
+    at async apiRequest (queryClient.ts:22:3)
+    at async Object.mutationFn (create-quote.tsx:310:24)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Error details: 500: {"message":"Failed to create quote","error":"bind message supplies 1 parameters, but prepared statement \"\" requires 0"} Error: 500: {"message":"Failed to create quote","error":"bind message supplies 1 parameters, but prepared statement \"\" requires 0"}
+    at throwIfResNotOk (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/lib/queryClient.ts:5:11)
+    at async apiRequest (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/lib/queryClient.ts:15:3)
+    at async Object.mutationFn (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/create-quote.tsx:207:24)
+Mt.forEach.n.<computed> @ Console.js:61
+stallwart.build.js:1 stallwart: failed ping 1

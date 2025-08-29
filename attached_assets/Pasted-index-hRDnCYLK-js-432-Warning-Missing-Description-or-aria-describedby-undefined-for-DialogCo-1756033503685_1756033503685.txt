@@ -1,0 +1,47 @@
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:457 Simple upload button clicked
+index-hRDnCYLK.js:457 File selected: ac-18.webp
+index-hRDnCYLK.js:457 Upload URL response: Object
+index-hRDnCYLK.js:457 onCreateEquipment called with: Object
+index-hRDnCYLK.js:457 Processed data: Object
+index-hRDnCYLK.js:457 Creating new equipment
+index-hRDnCYLK.js:457 Creating equipment with data: Object
+index-hRDnCYLK.js:457 Equipment created: Object
+index-hRDnCYLK.js:457 Equipment creation success, invalidating queries
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+index-hRDnCYLK.js:432 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonimowa) @ index-hRDnCYLK.js:432
+/api/public-equipment/2:1  Failed to load resource: the server responded with a status of 500 ()
+index-hRDnCYLK.js:48  DELETE https://ofertnik.replit.app/api/public-equipment/2 500 (Internal Server Error)
+_e @ index-hRDnCYLK.js:48
+mutationFn @ index-hRDnCYLK.js:457
+fn @ index-hRDnCYLK.js:48
+g @ index-hRDnCYLK.js:48
+start @ index-hRDnCYLK.js:48
+execute @ index-hRDnCYLK.js:48
+await in execute
+mutate @ index-hRDnCYLK.js:48
+(anonimowa) @ index-hRDnCYLK.js:48
+te @ index-hRDnCYLK.js:457
+onClick @ index-hRDnCYLK.js:457
+F4 @ index-hRDnCYLK.js:37
+I4 @ index-hRDnCYLK.js:37
+O4 @ index-hRDnCYLK.js:37
+Hw @ index-hRDnCYLK.js:37
+PC @ index-hRDnCYLK.js:37
+(anonimowa) @ index-hRDnCYLK.js:37
+Ev @ index-hRDnCYLK.js:40
+YN @ index-hRDnCYLK.js:37
+$f @ index-hRDnCYLK.js:37
+iv @ index-hRDnCYLK.js:37
+J4 @ index-hRDnCYLK.js:37

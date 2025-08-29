@@ -1,0 +1,103 @@
+chunk-RPCDYKBN.js?v=be186b14:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Maszty oświetleniowe', rentalDays: 13, hoursPerDay: 10, totalHours: 130, fuelConsumptionLH: 0.6, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 268, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 268, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 7.7, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 386, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 386, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 5.5, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 218, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 218, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 7.7, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 386, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 386, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Maszty oświetleniowe', rentalDays: 13, hoursPerDay: 10, totalHours: 130, fuelConsumptionLH: 0.6, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 268, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 268, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 7.7, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 386, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 386, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 5.5, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 218, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 218, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Maszty oświetleniowe', rentalDays: 13, hoursPerDay: 10, totalHours: 130, fuelConsumptionLH: 0.6, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 268, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 268, …}
+quote-item.tsx:475 Engine equipment fuel calculation: {category: 'Agregaty prądotwórcze', rentalDays: 13, hoursPerDay: 24, totalHours: 312, fuelConsumptionLH: 5.5, …}
+quote-item.tsx:539 Service Items Debug: {serviceItem1Cost: 218, serviceItem2Cost: 0, serviceItem3Cost: 0, serviceItem4Cost: undefined, totalServiceItemsCost: 218, …}
+create-quote.tsx:546 Error saving quote: TypeError: Cannot read properties of null (reading 'id')
+    at onSubmit (create-quote.tsx:437:91)
+    at chunk-4BFJKWC4.js?v=be186b14:1465:15
+onSubmit @ create-quote.tsx:546
+(anonymous) @ chunk-4BFJKWC4.js?v=be186b14:1465
+await in (anonymous)
+callCallback2 @ chunk-RPCDYKBN.js?v=be186b14:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=be186b14:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=be186b14:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=be186b14:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=be186b14:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=be186b14:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=be186b14:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=be186b14:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=be186b14:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=be186b14:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=be186b14:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=be186b14:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=be186b14:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=be186b14:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=be186b14:5449
+create-quote.tsx:547 Error details: Cannot read properties of null (reading 'id') TypeError: Cannot read properties of null (reading 'id')
+    at onSubmit (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/create-quote.tsx:319:91)
+    at https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=be186b14:1465:15
+onSubmit @ create-quote.tsx:547
+(anonymous) @ chunk-4BFJKWC4.js?v=be186b14:1465
+await in (anonymous)
+callCallback2 @ chunk-RPCDYKBN.js?v=be186b14:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=be186b14:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=be186b14:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=be186b14:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=be186b14:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=be186b14:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=be186b14:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=be186b14:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=be186b14:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=be186b14:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=be186b14:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=be186b14:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=be186b14:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=be186b14:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=be186b14:5449
+create-quote.tsx:546 Error saving quote: TypeError: Cannot read properties of null (reading 'id')
+    at onSubmit (create-quote.tsx:437:91)
+    at chunk-4BFJKWC4.js?v=be186b14:1465:15
+onSubmit @ create-quote.tsx:546
+(anonymous) @ chunk-4BFJKWC4.js?v=be186b14:1465
+await in (anonymous)
+callCallback2 @ chunk-RPCDYKBN.js?v=be186b14:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=be186b14:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=be186b14:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=be186b14:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=be186b14:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=be186b14:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=be186b14:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=be186b14:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=be186b14:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=be186b14:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=be186b14:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=be186b14:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=be186b14:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=be186b14:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=be186b14:5449
+create-quote.tsx:547 Error details: Cannot read properties of null (reading 'id') TypeError: Cannot read properties of null (reading 'id')
+    at onSubmit (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/create-quote.tsx:319:91)
+    at https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-4BFJKWC4.js?v=be186b14:1465:15
+onSubmit @ create-quote.tsx:547
+(anonymous) @ chunk-4BFJKWC4.js?v=be186b14:1465
+await in (anonymous)
+callCallback2 @ chunk-RPCDYKBN.js?v=be186b14:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=be186b14:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=be186b14:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=be186b14:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=be186b14:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=be186b14:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=be186b14:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=be186b14:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=be186b14:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=be186b14:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=be186b14:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=be186b14:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=be186b14:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=be186b14:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=be186b14:5449

@@ -1,0 +1,58 @@
+chunk-RPCDYKBN.js?v=334562e1:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+api/auth/user:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+ObjectUploader.tsx:65 Uncaught ReferenceError: Uppy is not defined
+    at ObjectUploader.tsx:65:8
+    at mountState (chunk-RPCDYKBN.js?v=334562e1:12005:28)
+    at Object.useState (chunk-RPCDYKBN.js?v=334562e1:12545:24)
+    at useState (chunk-QCHXOAYK.js?v=334562e1:1066:29)
+    at ObjectUploader (ObjectUploader.tsx:52:18)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=334562e1:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=334562e1:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=334562e1:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=334562e1:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=334562e1:3699:24)
+ObjectUploader.tsx:65 Uncaught ReferenceError: Uppy is not defined
+    at ObjectUploader.tsx:65:8
+    at mountState (chunk-RPCDYKBN.js?v=334562e1:12005:28)
+    at Object.useState (chunk-RPCDYKBN.js?v=334562e1:12545:24)
+    at useState (chunk-QCHXOAYK.js?v=334562e1:1066:29)
+    at ObjectUploader (ObjectUploader.tsx:52:18)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=334562e1:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=334562e1:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=334562e1:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=334562e1:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=334562e1:3699:24)
+chunk-RPCDYKBN.js?v=334562e1:14032 The above error occurred in the <ObjectUploader> component:
+
+    at ObjectUploader (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/ObjectUploader.tsx:21:3)
+    at div
+    at _c9 (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at div
+    at ClientQuestions (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/client-questions.tsx:40:21)
+    at Route (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=334562e1:191:16)
+    at Switch (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=334562e1:247:17)
+    at div
+    at Router (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/App.tsx?v=GUddJU0YEXp_MhOx6Q5cN:71:63)
+    at Provider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=334562e1:38:15)
+    at TooltipProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=334562e1:63:5)
+    at ThemeProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/theme-provider.tsx:25:3)
+    at QueryClientProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=334562e1:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ chunk-RPCDYKBN.js?v=334562e1:14032
+chunk-RPCDYKBN.js?v=334562e1:9129 Uncaught ReferenceError: Uppy is not defined
+    at ObjectUploader.tsx:65:8
+    at mountState (chunk-RPCDYKBN.js?v=334562e1:12005:28)
+    at Object.useState (chunk-RPCDYKBN.js?v=334562e1:12545:24)
+    at useState (chunk-QCHXOAYK.js?v=334562e1:1066:29)
+    at ObjectUploader (ObjectUploader.tsx:52:18)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=334562e1:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=334562e1:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=334562e1:15914:22)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=334562e1:19753:22)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=334562e1:19198:20)

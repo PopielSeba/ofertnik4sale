@@ -1,0 +1,212 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+ofertnik:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+ofertnik:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+ofertnik:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-b8de05b5776b09ff.js:16 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+_app-b8de05b5776b09ff.js:16 [LaunchDarkly] LaunchDarkly client initialized
+ofertnik:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'battery'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-f35b036c991c8e8e.js:1
+framework-f35b036c991c8e8e.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-f35b036c991c8e8e.js:1
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'battery'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'battery'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'layout-animations'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'layout-animations'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'legacy-image-formats'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'legacy-image-formats'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'navigation-override'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'navigation-override'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'oversized-images'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'oversized-images'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'publickey-credentials'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'publickey-credentials'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'speaker-selection'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'speaker-selection'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'unoptimized-images'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'unoptimized-images'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'unsized-media'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Unrecognized feature: 'unsized-media'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar45%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 File data: Object
+Console.js:61 File data: Object
+Console.js:61 File data: Object
+Console.js:61 File data: Object
+Console.js:61 New files to add: Array(4)
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+3caa6eb1-8218-4cb9-bf4c-fc1539d2364c:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+3caa6eb1-8218-4cb9-bf4c-fc1539d2364c:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Image load error for: /objects/uploads/3caa6eb1-8218-4cb9-bf4c-fc1539d2364c
+e361b05e-ad50-4daa-84fc-9e2cc44e74bc:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+e361b05e-ad50-4daa-84fc-9e2cc44e74bc:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Image load error for: /objects/uploads/e361b05e-ad50-4daa-84fc-9e2cc44e74bc
+04cb1a89-f728-48fa-af98-c2fc32d2a3c7:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+04cb1a89-f728-48fa-af98-c2fc32d2a3c7:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Image load error for: /objects/uploads/04cb1a89-f728-48fa-af98-c2fc32d2a3c7
+67f66666-4545-40a5-b244-4113771a4c65:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+67f66666-4545-40a5-b244-4113771a4c65:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Image load error for: /objects/uploads/67f66666-4545-40a5-b244-4113771a4c65
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+Console.js:61 Rendering file: Object
+Console.js:61 File data: {source: '', id: 'uppy-skan/jpg-1e-image/jpeg-108372-1731955670011', name: 'skan.jpg', extension: 'jpg', meta: {…}, …}
+Console.js:61 File data: {source: '', id: 'uppy-promatik5/jpg-1e-image/jpeg-553025-1755373509722', name: 'promatik5.JPG', extension: 'JPG', meta: {…}, …}
+Console.js:61 File data: {source: '', id: 'uppy-promatik3/jpg-1e-image/jpeg-543535-1755373087465', name: 'promatik3.JPG', extension: 'JPG', meta: {…}, …}
+Console.js:61 File data: {source: '', id: 'uppy-promatic/4/jpg-10-1e-image/jpeg-549287-1755373105013', name: 'promatic 4.JPG', extension: 'JPG', meta: {…}, …}
+Console.js:61 New files to add: (4) [{…}, {…}, {…}, {…}]
+Console.js:61 Rendering file: {url: '/objects/uploads/a176af46-c919-466e-880a-b12c78be924d', name: 'skan.jpg', type: 'image/jpeg', size: 108372}
+Console.js:61 Rendering file: {url: '/objects/uploads/f1e41ef0-ba5f-49e1-8137-833243cc248a', name: 'promatik5.JPG', type: 'image/jpeg', size: 553025}
+Console.js:61 Rendering file: {url: '/objects/uploads/adba7289-e9b5-44ab-ae34-eb8ca894b8fe', name: 'promatik3.JPG', type: 'image/jpeg', size: 543535}
+Console.js:61 Rendering file: {url: '/objects/uploads/37af8c2e-c534-4cff-87a1-7ccf41218f42', name: 'promatic 4.JPG', type: 'image/jpeg', size: 549287}
+f1e41ef0-ba5f-49e1-8137-833243cc248a:1  GET https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/objects/uploads/f1e41ef0-ba5f-49e1-8137-833243cc248a 401 (Unauthorized)
+Image
+commitMount @ chunk-RPCDYKBN.js?v=5630fd67:8412
+commitLayoutEffectOnFiber @ chunk-RPCDYKBN.js?v=5630fd67:17102
+commitLayoutMountEffects_complete @ chunk-RPCDYKBN.js?v=5630fd67:17980
+commitLayoutEffects_begin @ chunk-RPCDYKBN.js?v=5630fd67:17969
+commitLayoutEffects @ chunk-RPCDYKBN.js?v=5630fd67:17920
+commitRootImpl @ chunk-RPCDYKBN.js?v=5630fd67:19353
+commitRoot @ chunk-RPCDYKBN.js?v=5630fd67:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=5630fd67:18805
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=5630fd67:18718
+workLoop @ chunk-RPCDYKBN.js?v=5630fd67:197
+flushWork @ chunk-RPCDYKBN.js?v=5630fd67:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=5630fd67:384
+Console.js:61 Image load error for: /objects/uploads/f1e41ef0-ba5f-49e1-8137-833243cc248a
+a176af46-c919-466e-880a-b12c78be924d:1  GET https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/objects/uploads/a176af46-c919-466e-880a-b12c78be924d 401 (Unauthorized)
+Image
+commitMount @ chunk-RPCDYKBN.js?v=5630fd67:8412
+commitLayoutEffectOnFiber @ chunk-RPCDYKBN.js?v=5630fd67:17102
+commitLayoutMountEffects_complete @ chunk-RPCDYKBN.js?v=5630fd67:17980
+commitLayoutEffects_begin @ chunk-RPCDYKBN.js?v=5630fd67:17969
+commitLayoutEffects @ chunk-RPCDYKBN.js?v=5630fd67:17920
+commitRootImpl @ chunk-RPCDYKBN.js?v=5630fd67:19353
+commitRoot @ chunk-RPCDYKBN.js?v=5630fd67:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=5630fd67:18805
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=5630fd67:18718
+workLoop @ chunk-RPCDYKBN.js?v=5630fd67:197
+flushWork @ chunk-RPCDYKBN.js?v=5630fd67:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=5630fd67:384
+Console.js:61 Image load error for: /objects/uploads/a176af46-c919-466e-880a-b12c78be924d
+37af8c2e-c534-4cff-87a1-7ccf41218f42:1  GET https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/objects/uploads/37af8c2e-c534-4cff-87a1-7ccf41218f42 401 (Unauthorized)
+Image
+commitMount @ chunk-RPCDYKBN.js?v=5630fd67:8412
+commitLayoutEffectOnFiber @ chunk-RPCDYKBN.js?v=5630fd67:17102
+commitLayoutMountEffects_complete @ chunk-RPCDYKBN.js?v=5630fd67:17980
+commitLayoutEffects_begin @ chunk-RPCDYKBN.js?v=5630fd67:17969
+commitLayoutEffects @ chunk-RPCDYKBN.js?v=5630fd67:17920
+commitRootImpl @ chunk-RPCDYKBN.js?v=5630fd67:19353
+commitRoot @ chunk-RPCDYKBN.js?v=5630fd67:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=5630fd67:18805
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=5630fd67:18718
+workLoop @ chunk-RPCDYKBN.js?v=5630fd67:197
+flushWork @ chunk-RPCDYKBN.js?v=5630fd67:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=5630fd67:384
+adba7289-e9b5-44ab-ae34-eb8ca894b8fe:1  GET https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/objects/uploads/adba7289-e9b5-44ab-ae34-eb8ca894b8fe 401 (Unauthorized)
+Image
+commitMount @ chunk-RPCDYKBN.js?v=5630fd67:8412
+commitLayoutEffectOnFiber @ chunk-RPCDYKBN.js?v=5630fd67:17102
+commitLayoutMountEffects_complete @ chunk-RPCDYKBN.js?v=5630fd67:17980
+commitLayoutEffects_begin @ chunk-RPCDYKBN.js?v=5630fd67:17969
+commitLayoutEffects @ chunk-RPCDYKBN.js?v=5630fd67:17920
+commitRootImpl @ chunk-RPCDYKBN.js?v=5630fd67:19353
+commitRoot @ chunk-RPCDYKBN.js?v=5630fd67:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=5630fd67:18805
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=5630fd67:18718
+workLoop @ chunk-RPCDYKBN.js?v=5630fd67:197
+flushWork @ chunk-RPCDYKBN.js?v=5630fd67:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=5630fd67:384
+Console.js:61 Image load error for: /objects/uploads/37af8c2e-c534-4cff-87a1-7ccf41218f42
+Console.js:61 Image load error for: /objects/uploads/adba7289-e9b5-44ab-ae34-eb8ca894b8fe
+Console.js:61 Rendering file: {url: '/objects/uploads/a176af46-c919-466e-880a-b12c78be924d', name: 'skan.jpg', type: 'image/jpeg', size: 108372}
+Console.js:61 Rendering file: {url: '/objects/uploads/f1e41ef0-ba5f-49e1-8137-833243cc248a', name: 'promatik5.JPG', type: 'image/jpeg', size: 553025}
+Console.js:61 Rendering file: {url: '/objects/uploads/adba7289-e9b5-44ab-ae34-eb8ca894b8fe', name: 'promatik3.JPG', type: 'image/jpeg', size: 543535}
+Console.js:61 Rendering file: {url: '/objects/uploads/37af8c2e-c534-4cff-87a1-7ccf41218f42', name: 'promatic 4.JPG', type: 'image/jpeg', size: 549287}

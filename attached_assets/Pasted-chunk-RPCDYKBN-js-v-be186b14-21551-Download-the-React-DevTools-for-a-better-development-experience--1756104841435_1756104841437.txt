@@ -1,0 +1,104 @@
+chunk-RPCDYKBN.js?v=be186b14:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+chunk-RPCDYKBN.js?v=be186b14:521 Warning: React has detected a change in the order of Hooks called by Quotes. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://reactjs.org/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+1. useContext                 useContext
+2. useContext                 useContext
+3. useContext                 useContext
+4. useEffect                  useEffect
+5. useState                   useState
+6. useCallback                useCallback
+7. useSyncExternalStore       useSyncExternalStore
+8. useEffect                  useEffect
+9. useState                   useState
+10. useEffect                 useEffect
+11. useContext                useContext
+12. useState                  useState
+13. useState                  useState
+14. useEffect                 useEffect
+15. useContext                useContext
+16. useContext                useContext
+17. useContext                useContext
+18. useEffect                 useEffect
+19. useState                  useState
+20. useCallback               useCallback
+21. useSyncExternalStore      useSyncExternalStore
+22. useEffect                 useEffect
+23. useContext                useContext
+24. useState                  useState
+25. useEffect                 useEffect
+26. useCallback               useCallback
+27. useSyncExternalStore      useSyncExternalStore
+28. useCallback               useCallback
+29. useContext                useContext
+30. useState                  useState
+31. useEffect                 useEffect
+32. useCallback               useCallback
+33. useSyncExternalStore      useSyncExternalStore
+34. useCallback               useCallback
+35. undefined                 useMemo
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    at Quotes (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/quotes.tsx:50:61)
+    at div
+    at Route (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=be186b14:191:16)
+    at Switch (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=be186b14:247:17)
+    at div
+    at Router (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/App.tsx?v=cSSueX9wIYnpdVpYlh5oF:68:63)
+    at Provider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-IKZDNW7I.js?v=be186b14:43:15)
+    at TooltipProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=be186b14:63:5)
+    at ThemeProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/theme-provider.tsx:25:3)
+    at QueryClientProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=be186b14:2805:3)
+    at App
+printWarning @ chunk-RPCDYKBN.js?v=be186b14:521
+chunk-RPCDYKBN.js?v=be186b14:11678 Uncaught Error: Rendered more hooks than during the previous render.
+    at updateWorkInProgressHook (chunk-RPCDYKBN.js?v=be186b14:11678:21)
+    at updateMemo (chunk-RPCDYKBN.js?v=be186b14:12199:22)
+    at Object.useMemo (chunk-RPCDYKBN.js?v=be186b14:12726:24)
+    at useMemo (chunk-QCHXOAYK.js?v=be186b14:1094:29)
+    at Quotes (quotes.tsx:169:26)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=be186b14:11548:26)
+    at updateFunctionComponent (chunk-RPCDYKBN.js?v=be186b14:14582:28)
+    at beginWork (chunk-RPCDYKBN.js?v=be186b14:15924:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=be186b14:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=be186b14:3699:24)
+chunk-RPCDYKBN.js?v=be186b14:11678 Uncaught Error: Rendered more hooks than during the previous render.
+    at updateWorkInProgressHook (chunk-RPCDYKBN.js?v=be186b14:11678:21)
+    at updateMemo (chunk-RPCDYKBN.js?v=be186b14:12199:22)
+    at Object.useMemo (chunk-RPCDYKBN.js?v=be186b14:12726:24)
+    at useMemo (chunk-QCHXOAYK.js?v=be186b14:1094:29)
+    at Quotes (quotes.tsx:169:26)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=be186b14:11548:26)
+    at updateFunctionComponent (chunk-RPCDYKBN.js?v=be186b14:14582:28)
+    at beginWork (chunk-RPCDYKBN.js?v=be186b14:15924:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=be186b14:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=be186b14:3699:24)
+chunk-RPCDYKBN.js?v=be186b14:14032 The above error occurred in the <Quotes> component:
+
+    at Quotes (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/pages/quotes.tsx:50:61)
+    at div
+    at Route (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=be186b14:191:16)
+    at Switch (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=be186b14:247:17)
+    at div
+    at Router (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/App.tsx?v=cSSueX9wIYnpdVpYlh5oF:68:63)
+    at Provider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-IKZDNW7I.js?v=be186b14:43:15)
+    at TooltipProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=be186b14:63:5)
+    at ThemeProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/src/components/theme-provider.tsx:25:3)
+    at QueryClientProvider (https://d727d18f-3cdb-454e-a5f0-4ad25f5272e8-00-1w9vhod0ajw3r.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=be186b14:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ chunk-RPCDYKBN.js?v=be186b14:14032
+chunk-RPCDYKBN.js?v=be186b14:9129 Uncaught Error: Rendered more hooks than during the previous render.
+    at updateWorkInProgressHook (chunk-RPCDYKBN.js?v=be186b14:11678:21)
+    at updateMemo (chunk-RPCDYKBN.js?v=be186b14:12199:22)
+    at Object.useMemo (chunk-RPCDYKBN.js?v=be186b14:12726:24)
+    at useMemo (chunk-QCHXOAYK.js?v=be186b14:1094:29)
+    at Quotes (quotes.tsx:169:26)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=be186b14:11548:26)
+    at updateFunctionComponent (chunk-RPCDYKBN.js?v=be186b14:14582:28)
+    at beginWork (chunk-RPCDYKBN.js?v=be186b14:15924:22)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=be186b14:19753:22)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=be186b14:19198:20)
