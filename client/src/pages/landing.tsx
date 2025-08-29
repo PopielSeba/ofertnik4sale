@@ -29,7 +29,7 @@ export default function Landing() {
             <Button 
               size="lg" 
               className="bg-white text-primary hover:bg-gray-100 font-semibold px-8 py-3 text-lg"
-              onClick={() => window.location.href = '/api/login'}
+              onClick={() => window.location.href = '/login'}
             >
               Zaloguj się do systemu
             </Button>
@@ -38,7 +38,7 @@ export default function Landing() {
               size="lg" 
               variant="outline"
               className="bg-white/10 text-white border-white/20 hover:bg-white/20 font-semibold px-8 py-3 text-lg backdrop-blur-sm"
-              onClick={() => window.location.href = '/api/login'}
+              onClick={() => window.location.href = '/login'}
             >
               <UserPlus className="w-5 h-5 mr-2" />
               Nowy użytkownik

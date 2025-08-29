@@ -13,6 +13,7 @@ import ClientQuestions from "@/pages/client-questions";
 import ClientCatalog from "@/pages/client-catalog";
 import ClientSales from "@/pages/client-sales";
 import Landing from "@/pages/landing";
+import Login from "@/pages/login";
 import Dashboard from "@/pages/dashboard";
 import Equipment from "@/pages/equipment";
 import Quotes from "@/pages/quotes";
@@ -78,6 +79,7 @@ function Router() {
           <Route path="/client-catalog" component={ClientCatalog} />
           <Route path="/client-sales" component={ClientSales} />
           <Route path="/employee-portal" component={Landing} />
+          <Route path="/login" component={Login} />
           <Route component={NotFound} />
         </Switch>
       </div>
